@@ -562,32 +562,3 @@ i, i:hover{
 	text-decoration: none;
 
 }
-
-/*--------Media!!!!--------*/
-@media screen and (max-width: 768px) {
-	h2 {
-		font-size: 150%
-	}
-	h3 {
-		font-size: 125%
-	}
-	h4 {
-		font-size: 125%
-	}
-	h5 {
-		font-size: 125%
-	}
-	p {
-		font-size: 120%
-	}
-	header {
-		position: absolute;
-	}
-	#logo {
-		margin: 15px 0 20px -25px;
-		background: url(images/logo.png) no-repeat center;
-	}
-	#menu-icon {
-		display: inline-block;
-	
-}
